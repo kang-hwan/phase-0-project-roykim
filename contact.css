@@ -1,0 +1,16 @@
+.top-banner {
+    background-image: url(/images/tea-farm-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+
+}
+
+.fill-form {
+    background-color: rgb(241, 241, 241);
+    width: 300px;
+    padding: 10px 40px 40px 40px;
+    border-radius: 5px;
+}
+
